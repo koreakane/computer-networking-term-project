@@ -1,0 +1,9 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "ejs": "~2.4.1",
+    "express": "~4.13.1"
+  }
+}
